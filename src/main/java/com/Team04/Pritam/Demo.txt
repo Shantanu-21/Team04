@@ -5,6 +5,8 @@ public class Addition {
 	
 	public static void main(String[] args) {
 		system.out.println("just check");
+                  Addition a=new Addition();
+
 		
 		
 	}
